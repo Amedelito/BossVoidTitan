@@ -1,0 +1,9 @@
+name: EggBossPlugin
+version: 1.0
+main: com.tuservidor.eggboss.EggBossPlugin
+api-version: 1.20
+description: Boss Huevo 3D con fases, animaciones y drops compartidos con Casino
+commands:
+  eggboss:
+    description: Da el huevo invocador, el item de movilidad o monedas
+    permission: eggboss.admin
